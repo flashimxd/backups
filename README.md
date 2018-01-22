@@ -6,7 +6,7 @@ package ie.binary.calculator;
 import java.util.Scanner;
 
 /*
- * @author Leonardo Lima
+ * @author Rangel Netto
  * 
  */
 public class Binary {
